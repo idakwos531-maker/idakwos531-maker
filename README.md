@@ -10,13 +10,12 @@ A modern, dark-themed audio player built to deliver a smooth media experience. T
 * Tech Stack: React, JavaScript (ES6), CSS3
 * Live Demo: [Launch Music Player](https://genuine-chimera-f7cefc.netlify.app/)
 
-### 🛍️ SWAG Boutique Storefront
+- 🛍️ SWAG Boutique Storefront
 A high-contrast, minimalist streetwear e-commerce interface. It features dynamic state-driven category filtering, custom out-of-stock placeholder states, and an integrated routing mechanism that allows users to place orders directly via WhatsApp.
 * Tech Stack: React, Responsive CSS (Flexbox & Grid), JavaScript
 * Live Demo: [Launch Boutique Store]((https://jade-hummingbird-2de88c.netlify.app/))
 
----
-### 🤖 PetBot (School Project )
+- 🤖 PetBot (School Project )
 An interactive academic project designed to explore automation and software architecture. As the group leader, I managed the development pipeline, coordinated tasks among team members, and oversaw the integration of core application logic to ensure a functional final submission.
 * **Role: Team Lead & Core Developer
 * **Key Focus:Project management, logic implementation, and team coordination
