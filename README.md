@@ -20,7 +20,7 @@ An interactive academic project designed to explore automation and software arch
 * **Role: Team Lead & Core Developer
 * **Key Focus:Project management, logic implementation, and team coordination
 * Tech Stack: React, Responsive CSS, html (Flexbox & Grid), JavaScript
-* Live Demo: [Launch Boutique Store]((https://candid-biscochitos-29630c.netlify.app/))
+* Live Demo: [Launch petbot site]((https://candid-biscochitos-29630c.netlify.app/))
 
 #🛠️ Technical Skills
 
