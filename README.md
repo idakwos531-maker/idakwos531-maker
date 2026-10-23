@@ -1,14 +1,13 @@
 # Hello, I'm Idakwo 👋
 
-Welcome to my GitHub profile! I am a frontend developer focused on building clean, user-friendly, and highly responsive web applications. I enjoy turning design concepts into functional code and continuously expanding my technical skills.
+Welcome to my GitHub profile! I am a full-stack developer focused on building clean, user-friendly, and highly responsive web applications. I enjoy turning design concepts into functional code, building robust backend logic with API integrations, and continuously expanding my technical skills.
 
 
 -🚀 Featured Projects
-
--🎵 ICEMAN Music Player
-A modern, dark-themed audio player built to deliver a smooth media experience. This project highlights frontend state management, dynamic audio scrubbing controls, and a fully responsive interface optimized for mobile viewports.
-* Tech Stack: React, JavaScript (ES6), CSS3
-* Live Demo: [Launch Music Player](https://genuine-chimera-f7cefc.netlify.app/)
+- 🍳 Pantry pal
+    An intelligent recipe and meal-planning web app designed to reduce food waste. Users input their cooking preferences (meal type, available time, and dietary restrictions like vegetarian) alongside the ingredients they currently have on hand. The app then matches these inputs against potential recipes and highlights any missing ingredients needed to complete the dish.
+    * Tech Stack: React, JavaScript, Responsive CSS, API Integration / Logic Processing
+    * Live Demo: [Launch Pantry App](https://glittery-sunflower-a224f9.netlify.app/) 
 
 - 🛍️ SWAG Boutique Storefront
 A high-contrast, minimalist streetwear e-commerce interface. It features dynamic state-driven category filtering, custom out-of-stock placeholder states, and an integrated routing mechanism that allows users to place orders directly via WhatsApp.
@@ -22,11 +21,10 @@ An interactive academic project designed to explore automation and software arch
 * Tech Stack: React, Responsive CSS, html (Flexbox & Grid), JavaScript
 * Live Demo: [Launch petbot site](https://candid-biscochitos-29630c.netlify.app/)
 
-#🛠️ Technical Skills
+# 🛠️ Technical Skills
 
-* Frontend: HTML5, CSS3, JavaScript (ES6), React
-* Tools & Hosting:** Git, GitHub, Netlify, VS Code
-
----
+- **Frontend:** HTML5, CSS3, JavaScript (ES6), React
+- **Backend & Logic:** RESTful APIs, Asynchronous JavaScript, State & Data Flow Processing
+- **Tools & Hosting:** Git, GitHub, Netlify, VS Code
 
 Thank you for visiting my profile! Feel free to explore my repositories or check out the live links above.
