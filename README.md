@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I am a full-stack developer focused on building cl
 - 🍳 Pantry pal
     An intelligent recipe and meal-planning web app designed to reduce food waste. Users input their cooking preferences (meal type, available time, and dietary restrictions like vegetarian) alongside the ingredients they currently have on hand. The app then matches these inputs against potential recipes and highlights any missing ingredients needed to complete the dish.
     * Tech Stack: React, JavaScript, Responsive CSS, API Integration / Logic Processing
-    * Live Demo: [Launch Pantry App](https://glittery-sunflower-a224f9.netlify.app/) 
+    * Live Demo: [Launch Pantry pal App](https://glittery-sunflower-a224f9.netlify.app/) 
 
 - 🛍️ SWAG Boutique Storefront
 A high-contrast, minimalist streetwear e-commerce interface. It features dynamic state-driven category filtering, custom out-of-stock placeholder states, and an integrated routing mechanism that allows users to place orders directly via WhatsApp.
